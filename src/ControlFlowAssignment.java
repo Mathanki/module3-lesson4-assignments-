@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ControlFlowAssignment {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        /*
+        
         System.out.println("===============question1================================");
         question1();
         System.out.println("=================question2==============================");
@@ -22,7 +22,7 @@ public class ControlFlowAssignment {
         System.out.print("Enter number between 1 and 7: ");
         int dayNumber = scanner.nextInt();
         question6(dayNumber);
-        */
+        
 
         System.out.println("=================question7==============================");
 
